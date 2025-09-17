@@ -1,7 +1,5 @@
 <div id="header" align="center">
-  <!-- Измени тут: вставь нужный GIF в src -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTU2ZTkzYjA2ZDI2YmYxYjA4ZDAyOGYwYjQwZWRjN2MwYjIzNTZhNSZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="120"/>
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
@@ -12,13 +10,13 @@
 </h1>
 
 <p align="center">
-  <b>ML-инженер • Исследователь • Люблю автоматизировать всё вокруг</b>
+  <b>ML-инженер • Исследователь • Алгоритмы</b>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhucXlsOGtpeXM2aDV6dmQ1ZnFudGEzbDBidmh2ZjI3ZW5vaDNnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)" width="600" height="300"/>
 </div>
 
 ### :man_technologist: О себе
