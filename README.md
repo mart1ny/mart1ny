@@ -40,32 +40,5 @@
 
 ---
 
-### :fire: Статистика GitHub
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
-</p>
 
----
-
-### :writing_hand: Последние посты
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=440&lines=Добро+пожаловать+в+мой+GitHub!;ML+%7C+AI+%7C+Автоматизация+%7C+Open+Source" alt="Typing SVG"/>
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Блог-посты :
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
