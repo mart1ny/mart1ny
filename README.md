@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
 
 
 <h1 align="center">
@@ -11,9 +11,7 @@
 
 ---
 
-<div align="center">
-  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhucXlsOGtpeXM2aDV6dmQ1ZnFudGEzbDBidmh2ZjI3ZW5vaDNnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhucXlsOGtpeXM2aDV6dmQ1ZnFudGEzbDBidmh2ZjI3ZW5vaDNnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif) " width="600" height="300"/>
-</div>
+
 
 ### :man_technologist: О себе
 
