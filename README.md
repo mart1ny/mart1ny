@@ -6,11 +6,11 @@ Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 </h1>
 
-<p align="center">
+
 
 <b>ML Engineer • Researcher • Algorithms</b>
 
-</p>
+
 
 ---
 
@@ -28,7 +28,7 @@ Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 ### :toolbox: Technologies and Tools
 
-<p align="center">
+
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
@@ -46,7 +46,7 @@ Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/yandex.png" title="Yandex" alt="Yandex" width="40" height="40"/>
 
-</p>
+
 
 ---
 
